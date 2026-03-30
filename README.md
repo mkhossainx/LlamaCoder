@@ -33,7 +33,6 @@ GET /api/ai
 | `prompt`  | string | ✅ Yes   | The text prompt to send to the model |
 | `model`   | string | ❌ No    | `fast` (default), `pro`, or `thinking` |
 | `image`   | string | ❌ No    | Public image URL for vision input |
-| `quality` | string | ❌ No    | `low` (default) or `high` — controls speed vs quality |
 
 ---
 
