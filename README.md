@@ -114,8 +114,8 @@ GET /api/ai?prompt=What is in this image?&image=https://example.com/photo.jpg
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/llamacoder-api
-cd llamacoder-api
+git clone https://github.com/mkhossainx/LlamaCoder
+cd LlamaCoder
 
 # Install dependencies
 pip install -r requirements.txt
