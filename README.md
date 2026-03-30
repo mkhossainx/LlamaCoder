@@ -131,7 +131,7 @@ API will be available at `http://localhost:5000/api/ai`
 ## Project Structure
 
 ```
-mk-ai-api-v2/
+LlamaCoder/
 ├── api/
 │   └── index.py       # Flask app + Together AI integration
 ├── requirements.txt   # Python dependencies (flask, httpx)
