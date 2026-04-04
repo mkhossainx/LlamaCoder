@@ -69,6 +69,10 @@ GET /api/ai?prompt=Explain recursion in simple terms
 ```
 GET /api/ai?prompt=Write a binary search in Python&model=pro
 ```
+**Using the Thinking model:**
+```
+GET /api/ai?prompt=Write a binary search in Python&model=thinking 
+```
 
 **With an image:**
 ```
